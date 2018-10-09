@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+.fa {padding: 10px; font-size: 10px; width: 30px; text-align: center; text-decoration: none;
+    margin: 2px 2px; border-radius: 30%; font:normal normal normal 14px/1 FontAwesome; }
+.fa:hover{opacity: 0.7;}
+.logoColor{color:white;background-color:#0795d1;}
+input[type='text']:focus {outline:none;border-color:#0795d1;}
+input[type='number']:focus {outline:none;border-color:#0795d1;}
+input[type='email']:focus {outline:none;border-color:#0795d1;}
+input[type='password']:focus {outline:none;border-color:#0795d1;}
+#UserLogin {margin-left:34.5%;margin-right:34.5%;border:outset #0795d1;}
